@@ -79,7 +79,7 @@ export default class Header extends Component {
                         <span className="categories"><i className="fa fa-tag" />JS Vanilla</span>
                       </div>
                       <div className="link-box">
-                        <a href="https://marjowolff.github.io/Bob-Colibri.com-Animation-JS/" target="_blank">Details</a>
+                        <a href="https://marjowolff.github.io/Bob-Colibri.com-Animation-JS/" target="_blank">Lien</a>
                         <a className="popup-modal-dismiss">Fermer</a>
                       </div>
                     </div>{/* modal-01 End */}
@@ -91,7 +91,7 @@ export default class Header extends Component {
                         <span className="categories"><i className="fa fa-tag" />React</span>
                       </div>
                       <div className="link-box">
-                        <a href="https://travel-memory-game.netlify.app/" target="_blank">Details</a>
+                        <a href="https://travel-memory-game.netlify.app/" target="_blank">Lien</a>
                         <a className="popup-modal-dismiss">Fermer</a>
                       </div>
                     </div>{/* modal-02 End */}
@@ -103,7 +103,7 @@ export default class Header extends Component {
                         <span className="categories"><i className="fa fa-tag" />React</span>
                       </div>
                       <div className="link-box">
-                        <a href="">Lien à venir</a>
+                        <a href="https://pole-position.netlify.app/" target="_blank">Lien</a>
                         <a className="popup-modal-dismiss">Fermer</a>
                       </div>
                     </div>{/* modal-03 End */}
